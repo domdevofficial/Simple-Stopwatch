@@ -4,8 +4,7 @@ A simple and responsive stopwatch built with **HTML, CSS, and JavaScript**.
 ## 🚀 Features  
 ✔ Start, Stop, and Reset functionality  
 ✔ Fully responsive design  
-✔ Displays time in `MM:SS:MS` format  
-✔ Hosted on **GitHub Pages**  
+✔ Displays time in `MM:SS:MS` format    
 ✔ Powered By: **DomDev**  
 
 ## 🛠 Technologies Used  
